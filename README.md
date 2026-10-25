@@ -44,6 +44,12 @@ house-price-prediction/
 ## Live Demo
 **Streamlit App:** https://housepricepredictionproject246.streamlit.app/
 
+
+## Application Preview
+
+![House Price Prediction App](screenshots/app_screenshot.png)
+
+
 ## Evaluation Metrics
 - **MSE:** Measures the average squared prediction error.
 - **RMSE:** Measures prediction error in the target variable's units.
