@@ -42,7 +42,7 @@ house-price-prediction/
 6. **Web Application:** Use Streamlit to provide an interface for entering property details and obtaining price predictions.
 
 ## Live Demo
-**Streamlit App:** Add your deployed Streamlit URL here after deployment.
+**Streamlit App:** https://housepricepredictionproject246.streamlit.app/
 
 ## Evaluation Metrics
 - **MSE:** Measures the average squared prediction error.
