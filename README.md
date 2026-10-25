@@ -47,7 +47,7 @@ house-price-prediction/
 
 ## Application Preview
 
-![House Price Prediction App](screenshots/app_screenshot.png)
+![House Price Prediction App](screenshots/app_trial.png)
 
 
 ## Evaluation Metrics
